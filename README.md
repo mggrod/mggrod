@@ -1,8 +1,8 @@
-👋 Hi, I’m @mggrod
+👋 Hi, I’m @mggrod 👋 
 
 👀 I’m interested in Cloud, DevOps, automation and related stuff 👀 
 
-🔻 I’m currently learning Ruby 🔻
+🔻 I’m currently learning Ruby 🔻 
 
 
 <!---
